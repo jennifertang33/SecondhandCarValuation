@@ -7,5 +7,5 @@ Files:
 <br />cleaned_data.csv ---> cleaned data for visualization
 <br />DCMT_script.R ---> script for data cleaning and model training
 <br />rf_model.rds ---> trained model for prediction
-<br />used_car.jpg ---> picture used in the welcome page of dashboard
+<br />usedcar.jpg ---> picture used in the welcome page of dashboard
 <br />folder car_data ---> original data
